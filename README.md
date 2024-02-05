@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnassxD.anas-repo" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnassxD.AnassxD" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anass-lahnaoui-7410a5239/) 
